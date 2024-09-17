@@ -14,12 +14,6 @@ This is a repository to showcase skills, share projects and track my progress in
 - **Excel**: Advanced functions, pivot tables, and data modeling
 - **Power BI**: Creating interactive dashboards and reports
 
-## Learning Journey
-I've embraced the world of data analysis through:
-- Comprehensive YouTube tutorials
-- Structured online courses
-- Personal projects to apply and reinforce my skills
-
 ## Projects
 My GitHub repositories showcase a variety of personal projects that demonstrate my growing expertise in data analysis. These projects reflect my ability to:
 - Clean and preprocess data
