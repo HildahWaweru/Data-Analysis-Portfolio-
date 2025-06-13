@@ -2,7 +2,7 @@
 
 Hi there! I'm Hildah Waweru, I have built a solid foundation in data analysis and developed a passion for leveraging data to uncover valuable insights. I am eager to apply my technical and analytical abilities in data analysis as an entry-level data specialist.
 
-I am passionate about uncovering insights and solving real-world problems through data. My projects span across different domains such as business, finance, health, and customer analytics — reflecting my ability to adapt to various industries and datasets.
+My projects span across different domains such as business, finance, health, and customer analytics — reflecting my ability to adapt to various industries and datasets.
 
 Throughout my learning journey, I have developed strong skills in data cleaning, visualization, analysis, and predictive modeling using Python, SQL, Excel, and Power BI. Whether working independently or as part of a team, I enjoy exploring data, discovering patterns, and generating actionable insights to support informed decision-making.
 
