@@ -23,7 +23,7 @@ My GitHub repositories showcase a variety of personal projects that demonstrate 
 - Create insightful visualizations
 - Draw meaningful conclusions from data
 
-Professional Certifications 
+## Professional Certifications 
 - Career Essentials in Data Analysis - Microsoft & LinkedIn Learning 
 - Excel Essential Training (Microsoft 365) - LinkedIn Learning 
 - Foundational Data Analysis and Visualization - Certified 
